@@ -1,4 +1,4 @@
-package com.teamtreehouse.giflib.config;
+package com.vivek.giflib.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

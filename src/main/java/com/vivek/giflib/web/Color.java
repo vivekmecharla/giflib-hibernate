@@ -1,4 +1,4 @@
-package com.teamtreehouse.giflib.web;
+package com.vivek.giflib.web;
 
 public enum Color {
     AQUA("Aqua","#59b3b3"),

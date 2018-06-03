@@ -1,6 +1,6 @@
-package com.teamtreehouse.giflib.web.controller;
+package com.vivek.giflib.web.controller;
 
-import com.teamtreehouse.giflib.model.Category;
+import com.vivek.giflib.model.Category;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.PathVariable;

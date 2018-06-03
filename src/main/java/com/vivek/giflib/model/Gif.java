@@ -1,4 +1,4 @@
-package com.teamtreehouse.giflib.model;
+package com.vivek.giflib.model;
 
 import java.time.LocalDateTime;
 import java.time.temporal.ChronoUnit;

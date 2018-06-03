@@ -1,4 +1,4 @@
-package com.teamtreehouse.giflib.model;
+package com.vivek.giflib.model;
 
 import java.util.ArrayList;
 import java.util.List;

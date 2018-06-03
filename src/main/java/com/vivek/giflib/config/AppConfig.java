@@ -1,4 +1,4 @@
-package com.teamtreehouse.giflib.config;
+package com.vivek.giflib.config;
 
 import org.hashids.Hashids;
 import org.springframework.beans.factory.annotation.Autowired;
